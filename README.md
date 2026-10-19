@@ -7,9 +7,8 @@ This repository documents my daily lessons, hands-on labs, key concepts, and lea
 
 Learning Progress
 Day	Topic	Status
-Day 1	Okta Org Fundamentals & Branding	In progress
-Day 2	To be added after the next lesson	Not started
-Day 3	To be determined	Not started
+Day 1	Okta Org Fundamentals & Branding. 
+
 Daily Learning Log
 Day 1 — Okta Org Fundamentals & Branding
 
