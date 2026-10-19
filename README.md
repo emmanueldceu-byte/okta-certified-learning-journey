@@ -40,7 +40,3 @@ Commit my notes to GitHub.
 Goal
 
 Build a structured, practical learning portfolio that demonstrates my understanding of Okta Workforce Identity and my progress toward certification.
-
-Security
-
-This repository contains learning notes only. Sensitive credentials, private tenant information, and confidential company data must never be committed.
