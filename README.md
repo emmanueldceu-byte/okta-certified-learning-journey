@@ -38,5 +38,6 @@ Record verification results.
 Write key takeaways and questions.
 Commit my notes to GitHub.
 Goal
+Note: the days are not consecutive but days dedicated to learning.
 
 Build a structured, practical learning portfolio that demonstrates my understanding of Okta Workforce Identity and my progress toward certification.
