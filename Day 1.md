@@ -15,7 +15,7 @@ Practice modifying branding settings in a lab.
 
 An Okta org is a tenant that stores configurations and data for a specific organization. Administrators manage users, applications, policies, and access within the org.
 
-Org Environments
+Org Environments.
 
 Production Org
 
