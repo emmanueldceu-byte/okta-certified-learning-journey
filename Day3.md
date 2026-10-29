@@ -30,7 +30,7 @@ Requires manual maintenance
 
 Membership updates when rule conditions are met
 
-Manual approach: Add each IT employee to the IT group.
+Manual approach: Add each IT employee to the IT group...
 
 Dynamic approach: Create a group rule that checks whether department = "IT" and automatically assigns matching users to the group.
 
