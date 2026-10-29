@@ -1,5 +1,5 @@
 # okta-certified-learning-journey
-Okta Certified Learning Journey
+My Okta Certified Learning Journey
 
 Welcome to my daily learning journal as I study Okta Workforce Identity and prepare for Okta certification.
 
